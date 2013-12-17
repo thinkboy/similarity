@@ -1,4 +1,4 @@
 similarity
 ==========
 
-EditDistance arithmetic
+Golang implementation for EditDistance arithmetic
